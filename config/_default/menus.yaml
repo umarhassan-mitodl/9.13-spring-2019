@@ -1,0 +1,74 @@
+leftnav:
+- identifier: e6e18e28-bfd6-bdcb-eb7b-0201dcddd94f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f7f54d7d-aff1-f7da-528d-663b4768ccc7
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 9796ac2a-c847-61bc-ee88-8718fa05dbe4
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: f3c5a567-38fc-4b4f-6c28-392cdd3fce8c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 94c7ff62-8a9f-7bbc-83e7-4bc55f46423c
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 50
+- identifier: f014227a-2f08-924a-01a9-a9923a4e94f8
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 60
+- identifier: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 70
+- identifier: de0c78a0-e97e-7e69-b698-5d721e767a86
+  name: Assignment 1
+  pageRef: /pages/assignments/assignment-1
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 80
+- identifier: 114dd8db-a916-5eea-2684-4f838ee8c9c6
+  name: Assignment 2
+  pageRef: /pages/assignments/assignment-2
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 90
+- identifier: 67aebbb9-a609-c4ae-1993-c3dbfa3c4bc8
+  name: Assignment 3
+  pageRef: /pages/assignments/assignment-3
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 100
+- identifier: 081faeba-bc00-ee61-fd3c-0c6a648fe7fc
+  name: Assignment 4
+  pageRef: /pages/assignments/assignment-4
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 110
+- identifier: fc42ca69-5212-ca47-de91-2b6d88ba4f99
+  name: Assignment 5
+  pageRef: /pages/assignments/assignment-5
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 120
+- identifier: d83ef4e2-b19e-f33f-2448-8ae39f6a7c78
+  name: Assignment 6
+  pageRef: /pages/assignments/assignment-6
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 130
+- identifier: 5b227e17-9162-6651-afc7-c67fe3a12f1b
+  name: Assignment 7
+  pageRef: /pages/assignments/assignment-7
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 140
+- identifier: f8fa0954-ce62-dd73-d549-29dd3f82aeba
+  name: Assignment 8
+  pageRef: /pages/assignments/assignment-8
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 150
+- identifier: cf2d3612-58f0-3760-629f-c4d035c64660
+  name: Experimental Design Assignment
+  pageRef: /pages/assignments/experimental-design-assignment
+  parent: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
+  weight: 160
