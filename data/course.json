@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2019",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "43547bd1-3bb4-9ae3-4322-ccc09f4247a3",
+  "instructors": {
+    "content": [
+      "a200579a-eaaa-c391-a86b-f6617d0ad929"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6a08eddd-7315-9f17-c840-c47b8e052a02",
+    "website": "9-13-the-human-brain-spring-2019"
+  },
+  "course_title": "The Human Brain",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course surveys the core perceptual and cognitive abilities of the human mind and asks how they are implemented in the brain. Key themes include the representations, development, and degree of functional specificity of these components of mind and brain. The course will take students straight to the cutting edge of the field, empowering them to understand and critically evaluate empirical articles in the current literature.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.13",
+  "course_image_thumbnail": {
+    "content": "9056a6dc-7078-2884-cfbc-259d88064c27",
+    "website": "9-13-the-human-brain-spring-2019"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments",
+    "Lecture Notes",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "181b4430-5a59-4ba9-8ebb-fdad3d272b99",
+  "site_short_id": "9.13-spring-2019",
+  "site_url_path": "courses/9-13-the-human-brain-spring-2019",
+  "title": "Course Metadata"
+}
