@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-13-the-human-brain-spring-2019/c360823cca05102386db1752b905cbfa_W2PY6z1Wddg.pdf
 file_size: 106957
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
