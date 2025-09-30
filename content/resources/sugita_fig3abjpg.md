@@ -5,6 +5,8 @@ draft: false
 file: /courses/9-13-the-human-brain-spring-2019/1c043ccb92688dfe59bde1ac741817a1_sugita_fig3a-b.jpg
 file_size: 51901
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
