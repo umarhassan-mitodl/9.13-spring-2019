@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Details of the assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +11,7 @@ title: Assignment 6
 uid: d83ef4e2-b19e-f33f-2448-8ae39f6a7c78
 ---
 
-**Article:** Knops, A., B. Thirion, et al. "[Recruitment of an Area Involved in Eye Movements During Mental Arithmetic](https://doi.org/10.1126/science.1171599)." _Science_ 324, no. 5934 (2009): 1583–85. DOI: 10.1126/science.1171599
+**Article:** Knops, A., B. Thirion, et al. "{{% resource_link "980c4894-5cc1-4d1f-9972-ca469e6a4e38" "Recruitment of an Area Involved in Eye Movements During Mental Arithmetic" %}}." _Science_ 324, no. 5934 (2009): 1583–85. DOI: 10.1126/science.1171599
 
 **Assignment:** Read the assigned article carefully and think about it, then provide short answers to the questions below. You can do this by responding straight on this document or by submitting a separate document with numbered answers. Be clear and concise—points will be taken off for unnecessary words.
 

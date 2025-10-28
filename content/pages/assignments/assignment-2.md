@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Details of the assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +11,7 @@ title: Assignment 2
 uid: 114dd8db-a916-5eea-2684-4f838ee8c9c6
 ---
 
-**Article:** Downing, P.E., Y. Jiang, et al. "[A Cortical Area Selective for Visual Processing of the Human Body](https://doi.org/10.1126/science.1063414)." _Science_ 293 (2001): 2470–73. DOI: 0.1126/science.1063414
+**Article:** Downing, P.E., Y. Jiang, et al. "{{% resource_link "7ea1f97c-3f2b-48e7-932f-bd088094dd0f" "A Cortical Area Selective for Visual Processing of the Human Body" %}}." _Science_ 293 (2001): 2470–73. DOI: 0.1126/science.1063414
 
 **Assignment:** Read the assigned article carefully and think about it, then provide short answers to the questions below. Be clear and concise, points will be taken off for unnecessary words.
 

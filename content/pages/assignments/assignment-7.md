@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Details of the assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +11,7 @@ title: Assignment 7
 uid: 5b227e17-9162-6651-afc7-c67fe3a12f1b
 ---
 
-**Article:** Tang, C., S. Hamilton, and E.F. Chang. "[Intonational Speech Prosody Encoding in the Human Auditory Cortex](http://doi.org/10.1126/science.aam8577)." _Science_ 357, no. 6353 (2017): 797–801. DOI: 10.1126/science.aam8577
+**Article:** Tang, C., S. Hamilton, and E.F. Chang. "{{% resource_link "9ddfc1de-a701-4bc3-bdcf-c16b805e002e" "Intonational Speech Prosody Encoding in the Human Auditory Cortex" %}}." _Science_ 357, no. 6353 (2017): 797–801. DOI: 10.1126/science.aam8577
 
 **Assignment:** Read the assigned article carefully (expect this to take at least two hours, possibly more) and think about it, then provide short answers to the questions below. You can do this by responding straight on this document or by submitting a separate document with numbered answers. Be clear and concise, points will be taken off for unnecessary words.
 

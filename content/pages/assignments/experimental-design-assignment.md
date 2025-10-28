@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Describes the requirements for the experimental design assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,7 +15,7 @@ uid: cf2d3612-58f0-3760-629f-c4d035c64660
 
 Beyond coming up with two successive nicely designed experiments that ask important questions, it is also important to write up your ideas clearly. So, edit your prose multiple times to remove extra words and promote clarity. This assignment counts for 15% of your course grade. Expect to spend many hours on it. You may not propose an experiment that has already been published.
 
-You have already read the very relevant [Fischer et al. (2016)](https://doi.org/10.1073/pnas.1610344113) paper. I recommend you brainstorm for a while on your own, taking notes, and only after that read [Ullman et al. (2017)](https://doi.org/10.1016/j.tics.2017.05.012) and/or [Kubrich et al. (2017)](https://doi.org/10.1016/j.tics.2017.06.002), then revisit and perhaps revise your ideas.
+You have already read the very relevant {{% resource_link "096f7605-0991-4f42-aff2-4805147f26f6" "Fischer et al. (2016)" %}} paper. I recommend you brainstorm for a while on your own, taking notes, and only after that read {{% resource_link "4d089c52-dd4e-41aa-abc7-0ea8568bdb10" "Ullman et al. (2017)" %}} and/or {{% resource_link "3193463b-9298-4466-9402-28e670ec9dd1" "Kubrich et al. (2017)" %}}, then revisit and perhaps revise your ideas.
 
 Your writeup may be only a few pages (short is good), but must do the following (for each of your two experiments):
 
