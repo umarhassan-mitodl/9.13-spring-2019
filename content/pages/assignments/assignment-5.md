@@ -11,14 +11,14 @@ parent_uid: 0b398ccb-0c23-638d-6bae-d6ccf6e03a2f
 title: Assignment 5
 uid: fc42ca69-5212-ca47-de91-2b6d88ba4f99
 ---
-**Article:** Sugita, Y. "[Face Perception in Monkeys Reared with No Exposure to Faces](https://doi.org/10.1073/pnas.0706079105)." *PNAS* 105, no. 1 (2008): 394–98. DOI: 10.1073/pnas.0706079105
+**Article:** Sugita, Y. "{{% resource_link "74878dfb-a020-4f2a-8618-45b33e2106bd" "Face Perception in Monkeys Reared with No Exposure to Faces" %}}." *PNAS* 105, no. 1 (2008): 394–98. DOI: 10.1073/pnas.0706079105
 
 **Assignment:** Read the assigned article carefully and think about it, then provide short answers to the questions below. Be clear and concise—points will be taken off for unnecessary words.
 
 **Notes:** This is a hard assignment. Two videos that might also be helpful are:
 
-- Nancy's Brain Talks: [How do you ask a preverbal infant what she can see?](http://nancysbraintalks.mit.edu/video/how-do-you-ask-preverbal-infant-what-she-can-see)
-- Nancy's Brain Talks: [What is the role of experience in the development of face recognition?](http://nancysbraintalks.mit.edu/video/what-role-experience-development-face-recognition) 
+- Nancy's Brain Talks: {{% resource_link "3a636df7-e06b-40db-a30b-7281521da879" "How do you ask a preverbal infant what she can see?" %}}
+- Nancy's Brain Talks: {{% resource_link "a7177392-08d0-4a49-a366-9822c220bfcd" "What is the role of experience in the development of face recognition?" %}} 
 
 {{< resource 1c043ccb-9268-8dfe-59bd-e1ac741817a1 >}}
 
@@ -38,4 +38,4 @@ a) Experiment 1: A blocked design with black and white images of faces, bodies, 
 
 b) Experiment 2: Similar to the protocol established by Sugita et al., infant monkeys are face-deprived for 6, 12, and 24 months. Similar to Experiment 1, the paradigm is a blocked design with black and white images of faces, objects, bodies and scenes. Each image is presented for 500 ms, each block is 18 seconds long, and monkeys are passively viewing the stimuli. Monkeys are scanned twice—once at the end of the face deprivation period (t = 0) and once 6 months later (t = 6).
 
-\* If this description of VPC is unclear, a more thorough explanation can be found here: Nancy's Brain Talks: [What is the role of experience in the development of face recognition?](http://nancysbraintalks.mit.edu/video/what-role-experience-development-face-recognition)
+\* If this description of VPC is unclear, a more thorough explanation can be found here: Nancy's Brain Talks: {{% resource_link "a7177392-08d0-4a49-a366-9822c220bfcd" "What is the role of experience in the development of face recognition?" %}}

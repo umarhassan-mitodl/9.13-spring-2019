@@ -3,8 +3,6 @@ content_type: page
 description: 'This page contains the schedule, topics, and descriptions of what is
   covered in this course. '
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
